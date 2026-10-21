@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/publish/
+**/InstallerBuild/
+.tmp/
+tmp/
+.dotnet-cli-home/
+*.user
+*.db
+*.db-shm
+*.db-wal
+**/Properties/PublishProfiles/*.pubxml
+**/Properties/PublishProfiles/*.pubxml.user
